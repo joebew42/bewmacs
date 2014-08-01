@@ -2,7 +2,6 @@ Bewmacs
 =========
 My own emacs configuration
 
-
 Install
 --------------
 
@@ -12,7 +11,6 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 
 Plugins
 ----
-
  - ag
  - erlang
  - flx-ido
