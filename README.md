@@ -26,6 +26,6 @@ Plugins
 Shortcuts
 ---
 
- Duplicate line: `ctrl + d`
- Move line: `meta + shift + up/down`
- Move lines: as for move line but first select lines to move
+ - Duplicate line: `ctrl + d`
+ - Move line: `meta + shift + up/down`
+ - Move lines: as for move line but first select lines to move
