@@ -29,3 +29,4 @@ Shortcuts
  - Duplicate line: `ctrl + d`
  - Move line: `meta + shift + up/down`
  - Move lines: as for move line but first select lines to move
+ - Rename current buffer/file: `ctrl + c r`
