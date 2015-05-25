@@ -2,6 +2,8 @@ Bewmacs
 =========
 My own emacs configuration
 
+![bewmacs screenshot](/assets/screen.png?raw=true)
+
 Install
 --------------
 
