@@ -1,6 +1,6 @@
 Bewmacs
 =========
-My own emacs configuration
+Personal emacs configuration
 
 ![bewmacs screenshot](/assets/screen.png?raw=true)
 
@@ -14,6 +14,7 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 Plugins
 ----
  - ag
+ - auto-complete
  - flx-ido
  - flx
  - fiplr
@@ -25,7 +26,7 @@ Plugins
  - haml-mode
  - markdown-mode
  - yaml-mode
- - zenburn-theme
+ - spacegray-theme
 
 Shortcuts
 ---
