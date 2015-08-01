@@ -18,6 +18,7 @@ Plugins
  - flx-ido
  - flx
  - fiplr
+ - multiple-cursors
  - git-gutter-fringe
  - fringe-helper
  - git-gutter
@@ -31,11 +32,12 @@ Plugins
 Shortcuts
 ---
 
- - Duplicate line: `ctrl + d`
+ - Duplicate line: `ctrl + shift + d`
  - Move line: `meta + shift + up/down`
  - Move lines: as for move line but first select lines to move
  - Rename current buffer/file: `ctrl + x r`
  - Find file in the current working directory: `ctrl + x p`
+ - Enable multiple cursors by marking a word and: `ctrl + d`
  - Search string with `ag`: `meta + x ag RET`
 
 Font
