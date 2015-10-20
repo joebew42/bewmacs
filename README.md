@@ -41,6 +41,7 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - Find file in the current working directory: `ctrl + x p`
 - Enable multiple cursors by marking a word and: `ctrl + d`
 - Search string with `ag`: `meta + x ag RET`
+- Open auto-complete suggestions: `meta + TAB`
 
 ## Dired shortcuts
 
