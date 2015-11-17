@@ -34,22 +34,22 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 
 ## Shortcuts
 
-- Duplicate line: `ctrl + shift + d`
-- Move line: `meta + shift + up/down`
+- Duplicate line: <kbd>ctrl + shift + d</kbd>
+- Move line: <kbd>meta + shift + up/down</kbd>
 - Move lines: as for move line but first select lines to move
-- Rename current buffer/file: `ctrl + x r`
-- Find file in the current working directory: `ctrl + x p`
-  - To reload the file list during a search: `ctrl + c r` while fiplr is running
-- Enable multiple cursors by marking a word and: `ctrl + d`
-- Search string with `ag`: `meta + x ag RET`
-- Open auto-complete suggestions: `meta + TAB`
+- Rename current buffer/file: <kbd>ctrl + x r</kbd>
+- Find file in the current working directory: <kbd>ctrl + x p</kbd>
+  - To reload the file list during a search: <kbd>ctrl + c r</kbd> while fiplr is running
+- Enable multiple cursors by marking a word and: <kbd>ctrl + d</kbd>
+- Search string with `ag`: <kbd>meta + x ag RET</kbd>
+- Open auto-complete suggestions: <kbd>meta + TAB</kbd>
 
 ## Dired shortcuts
 
-- Enter in dired mode: `ctrl + x d`
-- Puts dired in write mode: `ctrl + x, ctrl + q`
-- Save modifies: `ctrl + c, ctrl + c`
-- Abort modifies: `ctrl + c ESC`
+- Enter in dired mode: <kbd>ctrl + x d</kbd>
+- Puts dired in write mode: <kbd>ctrl + x, ctrl + q</kbd>
+- Save modifies: <kbd>ctrl + c, ctrl + c</kbd>
+- Abort modifies: <kbd>ctrl + c ESC</kbd>
 
 ## Font
 
