@@ -43,8 +43,8 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - Enable multiple cursors by marking a word and: <kbd>ctrl + d</kbd>
 - Search string with `ag`: <kbd>meta + x ag RET</kbd>
 - Open auto-complete suggestions: <kbd>meta + TAB</kbd>
-- Goto line: <kbd>alt + g + g</kbd>
-- Replace string in region: <kbd>ctrl + shift +r</kbd>
+- Goto line: <kbd>alt + g g</kbd>
+- Replace string in region: <kbd>ctrl + shift + r</kbd>
 
 ## Dired shortcuts
 
