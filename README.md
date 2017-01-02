@@ -37,7 +37,7 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - Duplicate line: <kbd>ctrl + shift + d</kbd>
 - Move line: <kbd>meta + shift + up/down</kbd>
 - Move lines: as for move line but first select lines to move
-- Rename current buffer/file: <kbd>ctrl + x r</kbd>
+- Rename current buffer/file: <kbd>ctrl + x R</kbd>
 - Find file in the current working directory: <kbd>ctrl + x p</kbd>
   - To reload the file list during a search: <kbd>ctrl + c r</kbd> while fiplr is running
 - Enable multiple cursors by marking a word and: <kbd>ctrl + d</kbd>
