@@ -30,7 +30,7 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - haml-mode
 - markdown-mode
 - yaml-mode
-- spacegray-theme
+- color-theme-solarized
 
 ## Shortcuts
 
