@@ -21,6 +21,7 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - flx-ido
 - flx
 - fiplr
+- neotree
 - multiple-cursors
 - git-gutter-fringe
 - fringe-helper
@@ -53,6 +54,6 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 - Save modifies: <kbd>ctrl + c, ctrl + c</kbd>
 - Abort modifies: <kbd>ctrl + c ESC</kbd>
 
-## Font
+## Font configuration
 
-The font used is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro).
+The default font used is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro), but you can also set [__Inconsolata__](https://fonts.google.com/specimen/Inconsolata) as default by editing `~/.emacs.conf` after bewmacs is installed.
