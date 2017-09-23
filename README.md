@@ -35,6 +35,8 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 
 ## Shortcuts
 
+- Move to the next buffer: <kbd>ctrl meta</kbd> + <kbd>→<kbd>
+- Move to the previous buffer: <kbd>ctrl meta</kbd> + <kbd>←<kbd>
 - Duplicate line: <kbd>ctrl + shift + d</kbd>
 - Move line: <kbd>meta + shift + up/down</kbd>
 - Move lines: as for move line but first select lines to move
