@@ -35,23 +35,32 @@ curl -sS https://raw.githubusercontent.com/joebew42/bewmacs/master/install.sh | 
 
 ## Shortcuts
 
-- Move to the next buffer: <kbd>ctrl meta</kbd> + <kbd>→<kbd>
-- Move to the previous buffer: <kbd>ctrl meta</kbd> + <kbd>←<kbd>
-- Duplicate line: <kbd>ctrl + shift + d</kbd>
-- Move line: <kbd>meta + shift + up/down</kbd>
+### Buffers
+
+- Move to the next user buffer: <kbd>ctrl meta</kbd> + <kbd>→<kbd>
+- Move to the previous user buffer: <kbd>ctrl meta</kbd> + <kbd>←<kbd>
+- Rename current buffer/file: <kbd>ctrl x R</kbd>
+
+### Code
+
+- Duplicate line: <kbd>ctrl shift d</kbd>
+- Move line up: <kbd>meta shift</kbd> + <kbd>↑</kbd>
+- Move line down: <kbd>meta shift</kbd> + <kbd>↓</kbd>
 - Move lines: as for move line but first select lines to move
-- Rename current buffer/file: <kbd>ctrl + x R</kbd>
-- Find file in the current working directory: <kbd>ctrl + x p</kbd>
-  - To reload the file list during a search: <kbd>ctrl + c r</kbd> while fiplr is running
-- Enable multiple cursors by marking a word and: <kbd>ctrl + d</kbd>
-- Search string with `ag`: <kbd>meta + x ag RET</kbd>
-- Open auto-complete suggestions: <kbd>meta + TAB</kbd>
-- Goto line: <kbd>alt + g g</kbd>
-- Replace string in region: <kbd>ctrl + shift + r</kbd>
+- Enable **multiple cursors** by marking a word and: <kbd>ctrl d</kbd>
 
-## Dired shortcuts
+### Search and replace
 
-- Enter in dired mode: <kbd>ctrl + x d</kbd>
+- Find file in the current working directory: <kbd>ctrl x</kbd> <kbd>p</kbd>
+  - To reload the files list during a search: <kbd>ctrl c</kbd> <kbd>r</kbd> while fiplr is running
+- Search in the work directory with `ag`: <kbd>meta x</kbd> <kbd>ag RET</kbd>
+- Open auto-complete suggestions: <kbd>meta TAB</kbd>
+- Goto line: <kbd>alt g g</kbd>
+- Replace string in region: <kbd>ctrl R</kbd>
+
+### Dired
+
+- Enter in dired mode: <kbd>ctrl x</kbd> <kbd>d</kbd>
 - Puts dired in write mode: <kbd>ctrl + x, ctrl + q</kbd>
 - Save modifies: <kbd>ctrl + c, ctrl + c</kbd>
 - Abort modifies: <kbd>ctrl + c ESC</kbd>
